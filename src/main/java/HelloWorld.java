@@ -6,4 +6,17 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println(StringUtils.capitalize("hello world"));
     }
+
+    public int sum(int a, int b) {
+        return a + b;
+    }
+
+    
+    public void doThis() {
+
+    }
+
+    public void doThat() {
+
+    }
 }
